@@ -1,0 +1,10 @@
+C:\Users\Will\source\repos\BattleshipSimulator\BattleshipSimulator\bin\Debug\BattleshipSimulator.exe.config
+C:\Users\Will\source\repos\BattleshipSimulator\BattleshipSimulator\bin\Debug\BattleshipSimulator.exe
+C:\Users\Will\source\repos\BattleshipSimulator\BattleshipSimulator\bin\Debug\BattleshipSimulator.pdb
+C:\Users\Will\source\repos\BattleshipSimulator\BattleshipSimulator\obj\Debug\BattleshipSimulator.csproj.AssemblyReference.cache
+C:\Users\Will\source\repos\BattleshipSimulator\BattleshipSimulator\obj\Debug\BattleshipSimulator.Form1.resources
+C:\Users\Will\source\repos\BattleshipSimulator\BattleshipSimulator\obj\Debug\BattleshipSimulator.Properties.Resources.resources
+C:\Users\Will\source\repos\BattleshipSimulator\BattleshipSimulator\obj\Debug\BattleshipSimulator.csproj.GenerateResource.cache
+C:\Users\Will\source\repos\BattleshipSimulator\BattleshipSimulator\obj\Debug\BattleshipSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Will\source\repos\BattleshipSimulator\BattleshipSimulator\obj\Debug\BattleshipSimulator.exe
+C:\Users\Will\source\repos\BattleshipSimulator\BattleshipSimulator\obj\Debug\BattleshipSimulator.pdb
